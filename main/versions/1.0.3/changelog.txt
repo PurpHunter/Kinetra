@@ -1,0 +1,15 @@
+-- Added --
+ + Etched
+ + Clumps
+ + Extreme Sound Muffler
+ + Spark
+ + ETF & EMF
+ + Modpack Update Checker
+ + Open Parties & Claims
+ + FramedBlocks
+ + Comforts
+ + Connected Glass
+-- Removals --
+ - FTB Teams, Claims, Ranks
+-- Updates --
+   Several.
