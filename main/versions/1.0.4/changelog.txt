@@ -1,6 +1,7 @@
 -- Added --
 + YDM's Weapons Master (Suggested by willbill)
++ Create Copper & Zinc (Requested by PeterGJ)
 + Modpack Update Checker (Requested alot by AnarchyR4)
 + Elytra Slot
 + Immersive Melodies (Requested by Sir_Puggyson)
-+ [Let's Do] Vinery, HerbalBrews, Beachparty, Farm & Charm, Candlelight, Brewery, Bakery
++ [Let's Do] Vinery, HerbalBrews, Beachparty
