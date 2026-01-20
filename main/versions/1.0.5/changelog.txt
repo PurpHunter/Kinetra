@@ -1,0 +1,11 @@
+-- Added --
+ * Talk Balloons
+ * Extended Time (Requested By joshua_g_)
+ * Create: Big Contraptions
+ * C^2ME
+ * Create Better FPS
+ * Chat Manager
+ * Crash Assistant
+ * Crash Utilities 
+-- Removed --
+ * YDM's Weapon Master ( Removed due to random crash.)
